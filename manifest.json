@@ -1,0 +1,26 @@
+{
+  "name": "TTRPG Companion",
+  "short_name": "TTRPG",
+  "description": "Campaign toolkit for tabletop RPGs and wargames — D&D, Kill Team, Pathfinder and more",
+  "start_url": "./ttrpg-companion.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0d14",
+  "theme_color": "#c8a84b",
+  "orientation": "any",
+  "categories": ["games", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
